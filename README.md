@@ -1,4 +1,18 @@
-Hello, my name is Anil Kumar, I live in Chitrakote Dham Karvi and I am doing B.Sc Computer Science from Mahatma Gandhi Chitrakote Gramodaya Vishwavidyalaya and looking for job OR internship in IT company.
+### Hi there, I'm Anil Kumar 
+
+### 
+- **Current Focus:** Desktop Support, Systems Administration & DevOps Engineering
+- **Skills:** Linux Administration, Networking, Docker, Kubernetes, Shell Scripting, Python
+- **Goal:** Building scalable and automated infrastructure solutions
+
+### Tech Stack
+- **OS & Admin:** Linux (Ubuntu, RHEL), Windows Server, Active Directory
+- **Containerization & Orchestration:** Docker, Kubernetes
+- **CI/CD & GitOps:** GitHub Actions, ArgoCD
+- **Scripting:** Bash, Python
+
+---
+📫 **Connect with me:** [linkedin.com/in/anil-kumar-a0076339b]
 
 <!---
 Anilkumar921/Anilkumar921 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
